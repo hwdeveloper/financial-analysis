@@ -1,6 +1,7 @@
-
 文档托管到 https://github.com/hwdeveloper/financial-analysis 
-如果直接在 github上面看，数学公式不会正常显示，只会显示数学公式的源码，可以下载下来用markdown查看
+
+> 如果直接在 github上面看，数学公式不会正常显示，只会显示数学公式的源码，可以下载下来用markdown查看
+
 **市盈率**和**公司评价**希望班上高手补充！加油，8班！王志军！
 
 # 1 终值（FV）
